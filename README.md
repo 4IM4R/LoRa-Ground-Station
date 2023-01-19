@@ -1,1 +1,1 @@
-# nire-lenengo-biltegia
+# LoRa Ground Station
