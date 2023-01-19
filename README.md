@@ -21,6 +21,10 @@ Schematic:
 
 ![alt text](images/Schematic.png)
 
+PCB layout:
+
+![alt text](images/PCB_layout.png)
+
 Software:
   - TinyGS Firmware https://github.com/G4lile0/tinyGS
   - VSCode
