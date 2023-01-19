@@ -18,7 +18,8 @@ Material:
   - 100nF film capacitor
 
 Schematic:
-images/Schematic.BMP
+
+https://github.com/4IM4R/LoRa-Ground-Station/blob/1a8263553356037dd365a862c32e084f3349d44a/images/Schematic.BMP
 
 Software:
   - TinyGS Firmware https://github.com/G4lile0/tinyGS
