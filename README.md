@@ -25,6 +25,8 @@ PCB layout:
 
 ![alt text](images/PCB_layout.png)
 
+Proteus project file: proteus/LoRa_GS.pdsprj
+
 Software:
   - TinyGS Firmware https://github.com/G4lile0/tinyGS
   - VSCode
