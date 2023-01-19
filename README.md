@@ -17,6 +17,9 @@ Material:
   - 1uF electrolytic capacitor
   - 100nF film capacitor
 
+Schematic:
+images/Schematic.BMP
+
 Software:
   - TinyGS Firmware https://github.com/G4lile0/tinyGS
   - VSCode
