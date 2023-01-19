@@ -19,7 +19,7 @@ Material:
 
 Schematic:
 
-![alt text](http://url/to/img.png)
+![alt text](images/Schematic.png)
 
 Software:
   - TinyGS Firmware https://github.com/G4lile0/tinyGS
