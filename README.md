@@ -28,7 +28,7 @@ PCB layout:
 Proteus project file: https://github.com/4IM4R/LoRa-Ground-Station/blob/e2a53dc4b7f0d562ad7ddc52352c304cba657683/proteus/LoRa_GS.pdsprj
 
 Software:
-  - TinyGS Firmware https://github.com/G4lile0/tinyGS
+  - [TinyGS Firmware]: https://github.com/G4lile0/tinyGS
   - VSCode
   - Platformio
 
