@@ -19,7 +19,7 @@ Material:
 
 Schematic:
 
-https://github.com/4IM4R/LoRa-Ground-Station/blob/1a8263553356037dd365a862c32e084f3349d44a/images/Schematic.BMP?raw=true
+![alt text](http://url/to/img.png)
 
 Software:
   - TinyGS Firmware https://github.com/G4lile0/tinyGS
