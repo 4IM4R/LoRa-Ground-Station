@@ -9,7 +9,7 @@ Material:
   - Generic 100x68x50mm waterproof enclosure box “Sonoff”
   - SMA Female To RP SMA Male adapter
   - Solar panel
-  - 18650 3,7V battery
+  - 18650 3,7V battery and battery holder
   - TP4056 battery charge manager
   - Female header 2.54mm
   - Screw terminal kf350 3.5mm 2 pin
