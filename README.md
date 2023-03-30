@@ -85,7 +85,7 @@ Montatzeko erreztasunagatik, lehen ordenako filtro pasibo bat sortuko dugu goi-p
 Banda paseko iragazkia osatuko duen iragazki bakoitza erresistentzia eta kondentsagailu batez osaturik egongo da. Honela kalkulatuko ditugu gure iragazkiaren elementuen balioak:
 - Behe-paseko filtroa
 
-![alt text](images/LP_filter.png)
+![alt text](images/Filter_LP.png)
 
 Filtroaren mozketa frekuentzia honako formularen bidez kalkulatzen da :
 
