@@ -6,6 +6,8 @@ Proiektu hau honako proiektuetan oinarritua izan da:
   
 Beharrezko materiala:
   - TTGO LORA32 ESP32 433MHz bertsioa
+  - 433MHz antena
+  - 433MHz banda paseko filtroa
   - RP-SMA flange to U.FL pigtail (10cm)
   - 100x68x50mm waterproof “Sonoff” kaxa
   - 18650 3,7V pila rekargablea eta pila euskarria
@@ -49,4 +51,6 @@ Konfigurazioa:
   
 ![alt text](images/TinyGS_dashboard.png)
   
-  
+ # Banda paseko iragazkia
+ 
+ # Antena
