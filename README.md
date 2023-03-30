@@ -58,6 +58,7 @@ Konfigurazioa:
  Gure kasuan A elementu bertikalak 16,5cm eta B elementuek 18,4cm izan behar dituztela ikusiko dugu.
  
  ![alt text](images/Quarter_Wave_Drawing.png)
+ 
  Antena sortzeko beharrezko materiala:
  - 3mm-ko metalezko hagatxoa (metro bat)
  - 4x terminal borobil
@@ -77,3 +78,13 @@ Konfigurazioa:
  
  
  # Banda paseko iragazkia
+Banda paseko iragazkia 433MHz inguruko frekuentzia duten uhinak pasatzen utziko dituen iragazki bat izango da. Frekuentzia hortatik gora 20Mhz eta behera 20MHz tarteko uhinak ere pasatzen uzteko diseinatuko dugu, beraz, gure filtroak 413-453MHz frekuentzia duten uhinak pasatzen utziko ditu.
+ 
+Montatzeko erreztasunagatik, lehen ordenako filtro pasibo bat sortuko dugu goi-paseko eta behe-paseko bi iragazki seriean lotuz. Behe-paseko filtroak frekuentzia konkretu batetik (gure kasuan 413MHz) beherako uhinak moztuko ditu; goi-paseko filtroak, aldiz, frekuentzia konkretu batetik (gure kasuan 453MHz) gorako uhinak moztuko ditu.
+
+Banda paseko iragazkia osatuko duen iragazki bakoitza erresistentzia eta kondentsagailu batez osaturik egongo da. Honela kalkulatuko ditugu gure iragazkiaren elementuen balioak:
+- Behe-paseko filtroa
+
+![alt text](images/LP_filter.png)
+
+
