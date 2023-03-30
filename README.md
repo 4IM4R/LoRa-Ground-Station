@@ -54,7 +54,7 @@ Konfigurazioa:
 ![alt text](images/TinyGS_dashboard.png)
   
   # Antena
- Proiektu hontan egingo den antena uhin laurdeneko ground plane motako antena bat izango da. Antenaren dimentsioak kalkulatzeko, honako [antena kalkultzailea](https://m0ukd.com/calculators/quarter-wave-ground-plane-antenna-calculator/ erabiliko dugu). 433MHz aukeratzen baditugu eta "Calculate My Quarter Wave!" sakatzen badugu, gure antenaren dimentsioak eskuratuko ditugu.
+ Proiektu hontan egingo den antena uhin laurdeneko ground plane motako antena bat izango da. Antenaren dimentsioak kalkulatzeko, honako [antena kalkultzailea](https://m0ukd.com/calculators/quarter-wave-ground-plane-antenna-calculator/) erabiliko dugu. 433MHz aukeratzen baditugu eta "Calculate My Quarter Wave!" sakatzen badugu, gure antenaren dimentsioak eskuratuko ditugu.
  Gure kasuan A elementu bertikalak 16,5cm eta B elementuek 18,4cm izan behar dituztela ikusiko dugu.
  
  ![alt text](images/Quarter_Wave_Drawing.png)
