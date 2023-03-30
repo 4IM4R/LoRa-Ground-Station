@@ -36,13 +36,17 @@ Softwarearen insatalazioa:
 Konfigurazioa:
   - Jarraitu ondorengo estekako [argibideak](https://github.com/G4lile0/tinyGS/wiki/Ground-Station-configuration)
   - Estazioaren konfigurazioa burutu eta gero, Telegrameko bot pertsonalaren bidez web-login tokena sortu (TinyGS Personal Bot txatean /weblogin idatziz)
+
   ![alt text](images/weblogin.png)
   - Sortuko den esteka ireki eta bertan ondorengo aldaketak egin:
   - "Edit Station" atalean sartu eta antena mota eta funtzionamendu frenkuentzia eremua aukeratu. Nahi izan ezkero estazioaren argazki bat ere gehitu daiteke. Aldaketak gorde
+  
 ![alt text](images/Edit_station.png)
   - "Operate" atalean sartu eta "Auto Tune" atalean Enabled 433 aukeratu (garrantzitsua da estazioak sateliteen seinalea behar bezala jasotzeko). Aldaketak gorde
+  
 ![alt text](images/Operate.png)
   - Behin aldaketak gorde eta gero, saioa itxi eta hasierako konfigurazioa egin den lekutik (estazioaren IP-a nabigatzailean idatziz), estazioa berrabiaraztea komenigarria da "Restart station" aukeratuz
+  
 ![alt text](images/TinyGS_dashboard.png)
   
   
