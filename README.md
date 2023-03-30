@@ -87,6 +87,6 @@ Banda paseko iragazkia osatuko duen iragazki bakoitza erresistentzia eta kondent
 
 ![alt text](images/LP_filter.png)
 
-Filtroaren mozketa frekuentzia honako formularen bidez kalkulatzen da:
+Filtroaren mozketa frekuentzia honako formularen bidez kalkulatzen da :
 
 
